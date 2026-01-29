@@ -1,0 +1,3 @@
+res://demo/main.tscn
+res://client/multiplayer_client.gd
+res://demo/client_ui.gd
